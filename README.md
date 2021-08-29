@@ -8,4 +8,4 @@ Tutorial:
 
 Live demo: [https://flask-highcharts.herokuapp.com/](https://flask-highcharts.herokuapp.com/)
 
-![https://vuongvtrinh.github.io/post/data-analytics-dashboard/screenshot.png](https://vuongvtrinh.github.io/post/data-analytics-dashboard/screenshot.png)
+![https://trinhvanvuong.github.io/post/data-analytics-dashboard/screenshot.png](https://trinhvanvuong.github.io/post/data-analytics-dashboard/screenshot.png)
